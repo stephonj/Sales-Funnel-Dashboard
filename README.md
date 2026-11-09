@@ -8,12 +8,16 @@ An interactive Excel dashboard that visualizes a five-stage sales funnel (Visito
 
 # Business Questions Answered
 Where in the funnel do the most prospects drop off?
+
 What is the overall visitor-to-customer conversion rate, and how does it change by month?
+
 Which stage offers the biggest opportunity for improvement?
 
 # Key Findings
 The largest drop-off is Visitor to Lead (85%). Only 30% of SQLs become customers.
+
 Overall conversion is about 1.2% (775 conversions from about 62,700 visitors across January to June).
+
 Monthly conversion stayed between 1.16% (February) and 1.30% (June). June had the most conversions (150).
 
 # Features
@@ -29,7 +33,7 @@ Monthly slicers for dynamic filtering
 
 **Microsoft Excel**: PivotTables, charts, formulas, slicers
 
-How to Use
+# How to Use
 1. Download Sales Funnel Project
 
 2. Open in Excel (preferably desktop version)
